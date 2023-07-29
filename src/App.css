@@ -1,0 +1,19 @@
+#logo{
+	transform: rotate(30deg);
+  mix-blend-mode: multiply;
+  filter: contrast(1);
+}
+#mainlogo{
+  position: absolute;
+  top:50px;
+  left: 50px;
+  mix-blend-mode: multiply;
+  filter: contrast(1);
+}
+.main{
+  background: url('https://as1.ftcdn.net/v2/jpg/05/11/73/28/1000_F_511732810_WtnaKUTyRquQ4k1Tj3azMFN7BxsSG4g9.jpg');
+  /* background-image: url('https://as1.ftcdn.net/v2/jpg/05/11/73/28/1000_F_511732810_WtnaKUTyRquQ4k1Tj3azMFN7BxsSG4g9.jpg'); */
+}
+.mainbox{
+  background-color: white;
+}
